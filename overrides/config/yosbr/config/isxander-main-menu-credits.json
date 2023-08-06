@@ -1,0 +1,27 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Alex's Enhancements (broken install)",
+                "color": "red",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://github.com/alexs-enhancements/modpack/"
+                }
+            }
+        ]
+    },
+    "pause_menu": {
+        "bottom_right": [
+            {
+                "translate": "isxander-main-menu-credits.antighost",
+                "fallback": "Fix ghost blocks with /ghost",
+                "color": "dark_gray",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/ghost"
+                }
+            }
+        ]
+    }
+}

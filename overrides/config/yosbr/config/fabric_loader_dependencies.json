@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": {
+            "+depends": {
+                "Alex's Enhancements again.\nIt looks like you've deleted important files from your config folder, so Alex's Enhancements may not run properly.\nPlease update the pack or reset its config.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": ""
+            }
+        }
+    }
+}
