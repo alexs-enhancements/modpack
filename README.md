@@ -36,7 +36,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue [here](h
 - [**Better Ping Display [Fabric]**](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
 - [**Better Statistics Screen**](https://modrinth.com/mod/better-stats) - A Minecraft mod that improves the statistics screen and makes it more useful.
 - [**BetterF3**](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
-- [**Blur (Fabric)**](https://modrinth.com/mod/blur-fabric) - Adds a blur effect to all GUI backgrounds - now for Fabric!
+- [**Blur (Fabric)**](https://modrinth.com/mod/blur-fabric) - Adds a blur effect to all GUI backgrounds - now for Fabric (and Quilt)!
 - [**BoatHud**](https://modrinth.com/mod/boathud) - Sailing fast in style!
 - [**Bookshelf**](https://modrinth.com/mod/bookshelf-lib) - An open source library for other mods!
 - [**Borderless Mining**](https://modrinth.com/mod/borderless-mining) - Changes Fullscreen to use a borderless window.
@@ -61,7 +61,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue [here](h
 - [**Entity Culling**](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
 - [**Exordium**](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering.
 - [**Fabric API**](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
-- [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) - Fabric Language Kotlin
+- [**Fabric Language Kotlin**](https://modrinth.com/mod/fabric-language-kotlin) - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
 - [**FabricSkyBoxes Interop**](https://modrinth.com/mod/fabricskyboxes-interop) - FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies
 - [**FabricSkyboxes**](https://modrinth.com/mod/fabricskyboxes) - Allows resource packs to define custom skyboxes.
 - [**Fadeless**](https://modrinth.com/mod/fadeless) - Remove fade out animations in Minecraft (1.20+)
@@ -106,7 +106,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue [here](h
 - [**Sound Physics Remastered**](https://modrinth.com/mod/sound-physics-remastered) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
 - [**Starlight (Fabric)**](https://modrinth.com/mod/starlight) - Rewrites the light engine to fix lighting performance and lighting errors
 - [**Status Effect Bars**](https://modrinth.com/mod/status-effect-bars) - Adds customizable bars to the status effects overlay to show the remaining duration of effects.
-- [**ThreadTweak**](https://modrinth.com/mod/threadtweak) - 🧵 Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20
+- [**ThreadTweak**](https://modrinth.com/mod/threadtweak) - Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20
 - [**Very Many Players (Fabric)**](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
 - [**Visuality**](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles.
 - [**Wavey Capes**](https://modrinth.com/mod/wavey-capes) - The cape shouldn't be a static slab
