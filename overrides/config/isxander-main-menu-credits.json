@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Alex's Enhancements 0.0.1",
+                "text": "Alex's Enhancements 0.0.2",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://github.com/alexs-enhancements/modpack"
