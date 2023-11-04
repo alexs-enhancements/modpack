@@ -40,7 +40,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue [here](h
 - [**BetterF3**](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
 - [**Blur (Fabric)**](https://modrinth.com/mod/blur-fabric) - Adds a blur effect to all GUI backgrounds - now for Fabric (and Quilt)!
 - [**BoatHud**](https://modrinth.com/mod/boathud) - Sailing fast in style!
-- ❌ [**Bookshelf**](https://modrinth.com/mod/bookshelf-lib) - An open source library for other mods!
+- [**Bookshelf**](https://modrinth.com/mod/bookshelf-lib) - An open source library for other mods!
 - [**Borderless Mining**](https://modrinth.com/mod/borderless-mining) - Changes Fullscreen to use a borderless window.
 - ❌ [**CIT Resewn**](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)
 - [**Capes**](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
@@ -94,9 +94,9 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue [here](h
 - [**No Chat Reports**](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
 - [**No Telemetry**](https://modrinth.com/mod/no-telemetry) - Disable the telemetry introduced in 21w38a
 - [**Not Enough Animations**](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
-- ❌ [**OptiGUI**](https://modrinth.com/mod/optigui) - Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features
+- [**OptiGUI**](https://modrinth.com/mod/optigui) - Custom inventory GUIs on Fabric&Quilt with OptiFine resource pack support&many more features
 - ❌ [**Pick Up Notifier**](https://modrinth.com/mod/pick-up-notifier) - Be notified about all the things you've just collected.
-- ❌ [**Presence Footsteps**](https://modrinth.com/mod/presence-footsteps) - ..An Overly complicated Sound Mod...
+- [**Presence Footsteps**](https://modrinth.com/mod/presence-footsteps) - ..An Overly complicated Sound Mod...
 - [**Puzzle**](https://modrinth.com/mod/puzzle) - Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.
 - ❌ [**Puzzles Lib**](https://modrinth.com/mod/puzzles-lib) - Why's it called Puzzles you ask? That's the puzzle!
 - [**Reese's Sodium Options**](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium
